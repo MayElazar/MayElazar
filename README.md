@@ -78,12 +78,7 @@
 <a    href="https://mail.google.com/mail/?view=cm&fs=1&to=mayelazar741@gmail.com" target="_blank" style="margin-right:50px">
 <img src="./icons/mail.svg" alt="mail logo" title="Mail"  height="35"/>
 </a>
-
+</br>
 \*\*icons from font Awesome.com
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik:ital,wght@0,300;0,500;1,400&family=Style+Script&display=swap');
-  .btn{
-  background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;
-  }
-</style>
+
