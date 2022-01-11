@@ -14,12 +14,10 @@
 <span>
 
 &nbsp;
-[![Check out my work
-Status](https://may-portfolio.netlify.app/)]
+
 &nbsp;
 <a href="https://may-portfolio.netlify.app/" target="_blank">
-<button name='button' style="background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;">Check out my work
-</button>
+<img src="./icons/myWork.svg" height="35"/>
 </a>
 &nbsp;
 </span>
