@@ -15,7 +15,7 @@
 
 &nbsp;
 [![Build
-Status](https://travis-ci.org/jswanner/markdown-buttons.svg?branch=master)](https://travis-ci.org/jswanner/markdown-buttons)
+Status](https://travis-ci.org/jswanner/markdown-buttons.svg?branch=master)](https://may-portfolio.netlify.app/)
 &nbsp;
 <a href="https://may-portfolio.netlify.app/" target="_blank">
 <button name='button' style="background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;">Check out my work
