@@ -17,7 +17,7 @@
 
 &nbsp;
 <a href="https://may-portfolio.netlify.app/" target="_blank">
-<button style="background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;">Check out my work
+<button name='button' style="background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;">Check out my work
 </button>
 </a>
 &nbsp;
