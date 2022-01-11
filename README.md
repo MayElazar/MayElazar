@@ -55,7 +55,7 @@
 </br>
 
 <font style="color:#F21D56;font-family: 'Rubik', sans-serif;">
-<h3>💞️ What I am currently learnings</h3>
+<h3>💞️ What I am currently learning</h3>
 </font>
 
 &nbsp;
