@@ -14,7 +14,9 @@
 <span>
 
 &nbsp;
+[![Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)
 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30"/>](https://github.com/)
 &nbsp;
 <a href="https://may-portfolio.netlify.app/" target="_blank">
 <button name='button' style="background-color:#F21D56;border:none;color:white;padding:6px;border-radius:8px;">Check out my work
